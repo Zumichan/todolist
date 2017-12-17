@@ -1,2 +1,2 @@
 # todolist
-Simple ToDoList made with JavaScript
+Simple ToDoList made with JavaScript and HTML
