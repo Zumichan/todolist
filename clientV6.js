@@ -85,6 +85,6 @@ var handlers = {
     toggleCompletedPositionInput.value='';
   },
   toggleAll:function(){
-    todoList.displayTodos();
+    todoList.toggleAll();
   }
 };
